@@ -5,8 +5,6 @@
 
 // TODO: Colocar a identificação dos(as) integrantes aqui.
 
-package apl2;
-
 public class Operation {
 
 	/**

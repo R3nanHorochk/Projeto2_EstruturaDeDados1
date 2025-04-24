@@ -3,7 +3,7 @@
 //******************** ATENÇÃO! *********************
 // arquivo: src/apl2/Data.java
 
-package apl2;
+
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

@@ -2,7 +2,7 @@
 
 // TODO: Colocar a identificação dos(as) integrantes aqui.
 
-package apl2;
+
 
 // -- A classe Node (que pertence ao pacote apl2) deve conter os atributos que
 // representam a nova versão dos dados de uma pessoa, conforme descrito no

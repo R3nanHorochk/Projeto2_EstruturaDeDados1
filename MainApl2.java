@@ -8,10 +8,7 @@
 // TODO: Colocar a identificação dos(as) integrantes aqui.
 // TODO: Listar todas as referências consultadas para solucionar a atividade.
 
-import apl2.DLinkedList;
-import apl2.LinkedListOriginal;
-import apl2.Node;
-import apl2.Operation;
+
 
 public class MainApl2 {
 	
